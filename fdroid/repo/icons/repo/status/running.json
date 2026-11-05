@@ -1,0 +1,17 @@
+{
+  "/etc/issue.net": "Ubuntu 26.04.1 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid update"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1793882560742,
+    "index.make repo": 1793882560748,
+    "prepare_apps repo": 1793882560747,
+    "process_apks": 1793882560743,
+    "read_added_date_from_all_apks": 1793882560747,
+    "remove_apks": 1793882560746,
+    "scan_repo_files": 1793882560746
+  },
+  "startTimestamp": 1793878960000,
+  "subcommand": "update"
+}
